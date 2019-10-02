@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Indroduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Get Started}{10}{0}{2}
+\beamer@sectionintoc {3}{Branching}{28}{0}{3}
+\beamer@sectionintoc {4}{Working together}{44}{0}{4}
