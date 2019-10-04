@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  2 OCT 2019 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  4 OCT 2019 11:55
 entering extended mode
 **./git.tex
 (git.tex
@@ -1120,7 +1120,7 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
 ] [4
 
 ]
-<graphics/psdversions.png, id=411, 636.3775pt x 378.41376pt>
+<graphics/psdversions.png, id=432, 636.3775pt x 378.41376pt>
 File: graphics/psdversions.png Graphic file (type png)
 <use graphics/psdversions.png>
 Package pdftex.def Info: graphics/psdversions.png  used on input line 88.
@@ -1165,12 +1165,12 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ] [20
 
 ]
-<graphics/profile.png, id=1555, 384.6872pt x 222.8325pt>
+<graphics/profile.png, id=1624, 384.6872pt x 222.8325pt>
 File: graphics/profile.png Graphic file (type png)
 <use graphics/profile.png>
 Package pdftex.def Info: graphics/profile.png  used on input line 310.
 (pdftex.def)             Requested size: 191.20518pt x 110.75974pt.
-<graphics/profile_edit.png, id=1557, 399.74344pt x 523.20468pt>
+<graphics/profile_edit.png, id=1626, 399.74344pt x 523.20468pt>
 File: graphics/profile_edit.png Graphic file (type png)
 <use graphics/profile_edit.png>
 Package pdftex.def Info: graphics/profile_edit.png  used on input line 310.
@@ -1207,7 +1207,7 @@ Overfull \vbox (9.42776pt too high) detected at line 310
 ] [27
 
 ]
-<graphics/git_logo.png, id=2059, 326.21875pt x 326.21875pt>
+<graphics/git_logo.png, id=2149, 326.21875pt x 326.21875pt>
 File: graphics/git_logo.png Graphic file (type png)
 <use graphics/git_logo.png>
 Package pdftex.def Info: graphics/git_logo.png  used on input line 374.
@@ -1226,7 +1226,7 @@ Package pdftex.def Info: graphics/git_logo.png  used on input line 374.
 ] [33
 
 ]
-<graphics/profile_with_picture.png, id=2488, 345.54094pt x 572.89032pt>
+<graphics/profile_with_picture.png, id=2596, 345.54094pt x 572.89032pt>
 File: graphics/profile_with_picture.png Graphic file (type png)
 <use graphics/profile_with_picture.png>
 Package pdftex.def Info: graphics/profile_with_picture.png  used on input line 
@@ -1264,7 +1264,7 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
  [38
 
 ]
-<graphics/profile_with_css.png, id=2846, 1007.26312pt x 367.3725pt>
+<graphics/profile_with_css.png, id=2969, 1007.26312pt x 367.3725pt>
 File: graphics/profile_with_css.png Graphic file (type png)
 <use graphics/profile_with_css.png>
 Package pdftex.def Info: graphics/profile_with_css.png  used on input line 513.
@@ -1279,7 +1279,7 @@ Package pdftex.def Info: graphics/profile_with_css.png  used on input line 513.
 ] [42
 
 ]
-<graphics/git_branching_octopus.png, id=3132, 1390.9566pt x 802.6788pt>
+<graphics/git_branching_octopus.png, id=3267, 1390.9566pt x 802.6788pt>
 File: graphics/git_branching_octopus.png Graphic file (type png)
 <use graphics/git_branching_octopus.png>
 Package pdftex.def Info: graphics/git_branching_octopus.png  used on input line
@@ -1288,7 +1288,7 @@ Package pdftex.def Info: graphics/git_branching_octopus.png  used on input line
  [43
 
  <./graphics/git_branching_octopus.png>]
-<graphics/collaboration.png, id=3205, 1048.91875pt x 840.13875pt>
+<graphics/collaboration.png, id=3343, 1048.91875pt x 840.13875pt>
 File: graphics/collaboration.png Graphic file (type png)
 <use graphics/collaboration.png>
 Package pdftex.def Info: graphics/collaboration.png  used on input line 563.
@@ -1311,6 +1311,10 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
 
 ] [49
 
+] [50
+
+] [51
+
 ]
 \tf@nav=\write6
 \openout6 = `git.nav'.
@@ -1321,19 +1325,20 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
 \tf@snm=\write8
 \openout8 = `git.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 614.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 614.
- (git.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 614.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 614.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 645.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 645.
+
+(git.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 645.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 645.
 Package rerunfilecheck Info: File `git.out' has not changed.
-(rerunfilecheck)             Checksum: E71390201D1E1E5B8C51113A56090FC3;192.
+(rerunfilecheck)             Checksum: 8F1FF2DC8A537B23C4FB864557B53C41;241.
  ) 
 Here is how much of TeX's memory you used:
- 20833 strings out of 492969
- 415996 string characters out of 3126585
- 536405 words of memory out of 3000000
- 24114 multiletter control sequences out of 15000+200000
+ 20852 strings out of 492969
+ 416331 string characters out of 3126585
+ 539379 words of memory out of 3000000
+ 24128 multiletter control sequences out of 15000+200000
  59120 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,19n,82p,772b,1312s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1348,9 +1353,9 @@ ublic/lm/lmss8.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 ype1/public/lm/lmsy10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fon
 ts/type1/public/lm/lmsy9.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/lm/lmtt10.pfb>
-Output written on git.pdf (49 pages, 1283217 bytes).
+Output written on git.pdf (51 pages, 1345680 bytes).
 PDF statistics:
- 3688 PDF objects out of 4296 (max. 8388607)
- 103 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3992 PDF objects out of 4296 (max. 8388607)
+ 108 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
