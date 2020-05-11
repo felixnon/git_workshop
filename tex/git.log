@@ -1,32 +1,24 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  4 OCT 2019 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.17)  10 MAY 2020 20:54
 entering extended mode
-**./git.tex
-(git.tex
+**"c:/Users/Felix/Documents/Felix/HIWI Psychologie/Git Workshop2/tex/git.tex"
+("c:/Users/Felix/Documents/Felix/HIWI Psychologie/Git Workshop2/tex/git.tex"
 LaTeX2e <2018-04-01> patch level 5
 ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls"
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasem
-odes.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
-sty"
+("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasemodes.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count80
 )
 \beamer@tempbox=\box26
 \beamer@tempcount=\count81
 \c@beamerpauses=\count82
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbased
-ecode.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasedecode.sty"
 \beamer@slideinframe=\count83
 \beamer@minimum=\count84
 )
 \beamer@commentbox=\box27
 \beamer@modecount=\count85
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
-ty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 \headdp=\dimen102
@@ -71,28 +63,18 @@ Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 \beamer@coveringdepth=\count102
 \beamer@sectionadjust=\count103
 \beamer@tocsectionnumber=\count104
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseo
-ptions.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseoptions.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
 \beamer@paperwidth=\skip42
 \beamer@paperheight=\skip43
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
-sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count105
@@ -107,72 +89,39 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen124
 \Gm@layoutvoffset=\dimen125
 \Gm@dimlist=\toks15
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-cfg"))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
-core.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
-fsys.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
-cs.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-futil-common.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen128
 \pgfutil@tempdimb=\dimen129
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-futil-common-lists.tex"))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-futil-latex.def"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex")) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
 \pgfutil@abb=\box34
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-frcs.code.tex"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys.code.tex"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-fkeys.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks17
 \pgfkeys@temptoks=\toks18
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-fkeysfiltered.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen130
@@ -192,36 +141,23 @@ fkeysfiltered.code.tex"
 \t@pgf@toka=\toks20
 \t@pgf@tokb=\toks21
 \t@pgf@tokc=\toks22
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgf.cfg"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys-pdftex.def"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys-common-pdf.def"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-)))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsyssoftpath.code.tex"
+))) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count112
 \pgfsyssoftpath@bigbuffer@items=\count113
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsysprotocol.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -234,50 +170,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcore.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-.code.tex"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-calc.code.tex"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-util.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-parser.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen138
 \pgfmath@count=\count114
 \pgfmath@box=\box35
 \pgfmath@toks=\toks23
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.code.tex"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.basic.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.trigonometric.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.random.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.comparison.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.base.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.round.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.misc.code.tex")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.integerarithmetics.code.tex")))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-float.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex"))) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count115
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepoints.code.tex"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen139
 \pgf@picmaxx=\dimen140
@@ -293,112 +197,67 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@yy=\dimen150
 \pgf@zx=\dimen151
 \pgf@zy=\dimen152
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepathconstruct.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen153
 \pgf@path@lasty=\dimen154
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepathusage.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen155
 \pgf@shorten@start@additional=\dimen156
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorescopes.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
 \pgf@picture@serial@count=\count116
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoregraphicstate.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen157
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoretransformations.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen158
 \pgf@pt@y=\dimen159
 \pgf@pt@temp=\dimen160
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorequick.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreobjects.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepathprocessing.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorearrows.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen161
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreshade.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen162
 \pgf@sys@shading@range@num=\count117
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreimage.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreexternal.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box39
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorelayers.code.tex"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoretransparency.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepatterns.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-)))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\xxco
-lor.sty"
+))) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\xxcolor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count118
 \XC@countmixins=\count119
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
-i.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -411,15 +270,13 @@ Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
-)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
 Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
 Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
@@ -431,29 +288,21 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen163
 \Hy@linkcounter=\count120
 \Hy@pagecounter=\count121
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count122
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarks' set `true' on input line 4409.
@@ -492,74 +341,39 @@ Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 \Fld@listcount=\count126
 \c@bookmark@seq@number=\count127
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaser
-equires.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasec
-ompatibility.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-ont.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
-ty"
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaserequires.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasecompatibility.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasefont.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
-sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks26
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\san
-smathaccent.sty"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\sansmathaccent.sty"
 Package: sansmathaccent 2013/03/28
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filehook\filehook.
-sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filehook\filehook.sty"
 Package: filehook 2011/10/12 v0.5d Hooks for input files
-)))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-ranslator.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor.sty"
+))) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetranslator.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator.sty"
 Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasem
-isc.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-woscreens.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseo
-verlay.sty"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasemisc.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetwoscreens.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseoverlay.sty"
 \beamer@argscount=\count128
 \beamer@lastskipcover=\skip44
 \beamer@trivlistdepth=\count129
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-itle.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbases
-ection.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetitle.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasesection.sty"
 \c@lecture=\count130
 \c@part=\count131
 \c@section=\count132
 \c@subsection=\count133
 \c@subsubsection=\count134
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-rame.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframe.sty"
 \beamer@framebox=\box40
 \beamer@frametitlebox=\box41
 \beamer@zoombox=\box42
@@ -574,39 +388,21 @@ rame.sty"
 \beamer@envbody=\toks27
 \framewidth=\dimen168
 \c@framenumber=\count138
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasev
-erbatim.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseverbatim.sty"
 \beamer@verbatimfileout=\write4
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-ramesize.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframesize.sty"
 \beamer@splitbox=\box43
 \beamer@autobreakcount=\count139
 \beamer@autobreaklastheight=\dimen169
 \beamer@frametitletoks=\toks28
 \beamer@framesubtitletoks=\toks29
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-ramecomponents.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseframecomponents.sty"
 \beamer@footins=\box44
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasec
-olor.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasen
-otes.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasecolor.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasenotes.sty"
 \beamer@frameboxcopy=\box45
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-oc.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-emplates.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetoc.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetemplates.sty"
 \beamer@sbttoks=\toks30
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasea
-uxtemplates.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseb
-oxes.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseauxtemplates.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseboxes.sty"
 \bmb@box=\box46
 \bmb@colorbox=\box47
 \bmb@boxshadow=\box48
@@ -618,11 +414,7 @@ oxes.sty"
 \bmb@prevheight=\dimen173
 )
 \beamer@blockheadheight=\dimen174
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasel
-ocalstructure.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.st
-y"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaselocalstructure.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
@@ -630,37 +422,23 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \c@table=\count141
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasen
-avigation.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasenavigation.sty"
 \beamer@section@min@dim=\dimen175
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-heorems.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasetheorems.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
+("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks32
 \ex@=\dimen176
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen177
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count142
@@ -700,8 +478,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \mathdisplay@stack=\toks36
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks37
 \thm@bodyfont=\toks38
@@ -714,74 +491,32 @@ Package: amsthm 2017/10/31 v2.20.4
 \dth@everypar=\toks42
 )
 \c@theorem=\count154
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-hemes.sty"))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamertheme
-default.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerfontt
-hemedefault.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolor
-themedefault.sty")
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinner
-themedefault.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasethemes.sty")) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerthemedefault.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerfontthemedefault.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolorthemedefault.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinnerthemedefault.sty"
 \beamer@dima=\dimen185
 \beamer@dimb=\dimen186
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouter
-themedefault.sty")))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
-tikz.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
-.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouterthemedefault.sty"))) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
-oduleshapes.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box53
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
-oduleplot.code.tex"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
-pgfcomp-version-0-65.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty"
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen187
 \pgf@nodesepend=\dimen188
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
-pgfcomp-version-1-18.sty"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty"
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
-or.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
-eys.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-fkeys.code.tex"))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
-ty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-.code.tex"))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-ffor.code.tex"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex")) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-.code.tex")
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
 \pgffor@iter=\dimen189
 \pgffor@skip=\dimen190
 \pgffor@stack=\toks43
 \pgffor@toks=\toks44
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\tikz.code.tex"
+)) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
-flibraryplothandlers.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count155
 \pgfplotmarksize=\dimen191
@@ -800,21 +535,16 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofchildren=\count157
 \tikznumberofcurrentchild=\count158
 \tikz@fig@count=\count159
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
-odulematrix.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count160
 \pgfmatrixcurrentcolumn=\count161
 \pgf@matrix@numberofcolumns=\count162
 )
 \tikz@expandcount=\count163
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarytopaths.code.tex"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+))) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -848,72 +578,38 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonote
-s.sty"
-Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
-Package: todonotes 2012/07/25
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
-y"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
-tex"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
-.tex"
-\XKV@toks=\toks45
-\XKV@tempa@toks=\toks46
-)
-\XKV@depth=\count164
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarypositioning.code.tex"
-File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count165
-\calc@Bcount=\count166
-\calc@Adimen=\dimen198
-\calc@Bdimen=\dimen199
-\calc@Askip=\skip57
-\calc@Bskip=\skip58
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count167
-\calc@Cskip=\skip59
-)
-\c@@todonotes@numberoftodonotes=\count168
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamertheme
-singapore.sty"
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouter
-thememiniframes.sty")) (git.aux)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks45
+\AP@partial=\box58
+\AP@footins=\box59
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerthemefrankfurt.sty" ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouterthemesmoothbars.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinnerthemerounded.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolorthemeorchid.sty") ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolorthemewhale.sty")) ("c:/Users\Felix\Documents\Felix\HIWI Psychologie\Git Workshop2\tex\git.aux")
 \openout1 = `git.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 28.
-
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 30.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -937,7 +633,7 @@ File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \headsep=0.0pt
 * \topskip=11.0pt
 * \footskip=14.22636pt
-* \marginparwidth=56.9055pt
+* \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -950,372 +646,341 @@ File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count169
-\scratchdimen=\dimen256
-\scratchbox=\box58
-\nofMPsegments=\count170
-\nofMParguments=\count171
-\everyMPshowfont=\toks47
-\MPscratchCnt=\count172
-\MPscratchDim=\dimen257
-\MPnumerator=\count173
-\makeMPintoPDFobject=\count174
-\everyMPtoPDFconversion=\toks48
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+\scratchcounter=\count164
+\scratchdimen=\dimen198
+\scratchbox=\box60
+\nofMPsegments=\count165
+\nofMParguments=\count166
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count167
+\MPscratchDim=\dimen199
+\MPnumerator=\count168
+\makeMPintoPDFobject=\count169
+\everyMPtoPDFconversion=\toks47
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 28.
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 30.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count175
+\c@section@level=\count170
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
- (git.out) (git.out)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+ ("c:/Users\Felix\Documents\Felix\HIWI Psychologie\Git Workshop2\tex\git.out") ("c:/Users\Felix\Documents\Felix\HIWI Psychologie\Git Workshop2\tex\git.out")
 \@outlinefile=\write5
 \openout5 = `git.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 28.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 28.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 28.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 28.
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 30.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 28.
+(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 28.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 28.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 28.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 28.
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 28.
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 30.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 28.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 28.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 28.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 28.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmr/bx/n on input line 28.
+(Font)                  OT1/lmss/bx/n --> OT1/lmr/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 28.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 28.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 28.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 28.
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-basic-dictionary-English.dict"
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 30.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-bibliography-dictionary-English.dict"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-bibliography-dictionary-English.dict"
 Dictionary: translator-bibliography-dictionary, Language: English 
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-environment-dictionary-English.dict"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-environment-dictionary-English.dict"
 Dictionary: translator-environment-dictionary, Language: English 
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-months-dictionary-English.dict"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-months-dictionary-English.dict"
 Dictionary: translator-months-dictionary, Language: English 
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-numbers-dictionary-English.dict"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-numbers-dictionary-English.dict"
 Dictionary: translator-numbers-dictionary, Language: English 
-)
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-theorem-dictionary-English.dict"
+) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
-) (git.nav) [1{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
-}
+) ("c:/Users\Felix\Documents\Felix\HIWI Psychologie\Git Workshop2\tex\git.nav") [1{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 43.
+<graphics/psdversions.png, id=103, 636.3775pt x 378.41376pt>
+File: graphics/psdversions.png Graphic file (type png)
+<use graphics/psdversions.png>
+Package pdftex.def Info: graphics/psdversions.png  used on input line 53.
+(pdftex.def)             Requested size: 170.71652pt x 101.50905pt.
+ [2
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 43.
-
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 43.
-
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 43.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 43.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 43.
-LaTeX Font Info:    Try loading font information for U+msa on input line 43.
-
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 43.
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 43.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 43.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 43.
-[2
-
-] [3
+ <c:/Users/Felix/Documents/Felix/HIWI Psychologie/Git Workshop2/tex/graphics/psdversions.png>] [3
 
 ] [4
 
-]
-<graphics/psdversions.png, id=432, 636.3775pt x 378.41376pt>
-File: graphics/psdversions.png Graphic file (type png)
-<use graphics/psdversions.png>
-Package pdftex.def Info: graphics/psdversions.png  used on input line 88.
-(pdftex.def)             Requested size: 284.52756pt x 169.18753pt.
- [5
-
- <./graphics/psdversions.png>] [6
-
-] [7
-
-] [8
-
-] [9
+] [5
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 148
-.
+<graphics/Branch-2.png, id=257, 677.53125pt x 349.305pt>
+File: graphics/Branch-2.png Graphic file (type png)
+<use graphics/Branch-2.png>
+Package pdftex.def Info: graphics/Branch-2.png  used on input line 126.
+(pdftex.def)             Requested size: 199.16928pt x 102.68164pt.
+ [6
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
+ <c:/Users/Felix/Documents/Felix/HIWI Psychologie/Git Workshop2/tex/graphics/Branch-2.png>]
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 143.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 143.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 143.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 143.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 143.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 143.
+LaTeX Font Info:    Try loading font information for U+msa on input line 143.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 143.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 143.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 143.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 143.
+<graphics/Branch-1.png, id=297, 803.0pt x 459.7175pt>
+File: graphics/Branch-1.png Graphic file (type png)
+<use graphics/Branch-1.png>
+Package pdftex.def Info: graphics/Branch-1.png  used on input line 143.
+(pdftex.def)             Requested size: 241.84842pt x 138.45644pt.
+ [7
+
+ <c:/Users/Felix/Documents/Felix/HIWI Psychologie/Git Workshop2/tex/graphics/Branch-1.png>] [8
+
+]
+<graphics/handson.png, id=377, 513.92pt x 513.92pt>
+File: graphics/handson.png Graphic file (type png)
+<use graphics/handson.png>
+Package pdftex.def Info: graphics/handson.png  used on input line 177.
+(pdftex.def)             Requested size: 113.81102pt x 113.80771pt.
+ [9
+
+ <c:/Users/Felix/Documents/Felix/HIWI Psychologie/Git Workshop2/tex/graphics/handson.png>] [10
+
+]
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 238.
+ ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-[10
+LaTeX Font Info:    Try loading font information for OML+lmss on input line 238.
+LaTeX Font Info:    No file OMLlmss.fd. on input line 238.
 
-] [11
 
-] [12
+LaTeX Font Warning: Font shape `OML/lmss/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 238.
 
-] [13
 
-] [14
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
 
-] [15
 
-] [16
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
 
-] [17
+[11
 
-] [18
-
-] [19
-
-] [20
 
 ]
-<graphics/profile.png, id=1624, 384.6872pt x 222.8325pt>
-File: graphics/profile.png Graphic file (type png)
-<use graphics/profile.png>
-Package pdftex.def Info: graphics/profile.png  used on input line 310.
-(pdftex.def)             Requested size: 191.20518pt x 110.75974pt.
-<graphics/profile_edit.png, id=1626, 399.74344pt x 523.20468pt>
-File: graphics/profile_edit.png Graphic file (type png)
-<use graphics/profile_edit.png>
-Package pdftex.def Info: graphics/profile_edit.png  used on input line 310.
-(pdftex.def)             Requested size: 143.52324pt x 187.85284pt.
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
 
-Overfull \vbox (9.42776pt too high) detected at line 310
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19
+
+]
+Overfull \vbox (7.70934pt too high) detected at line 238
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20
+
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
 [21
 
- <./graphics/profile.png> <./graphics/profile_edit.png>]
-File: graphics/profile.png Graphic file (type png)
-<use graphics/profile.png>
-Package pdftex.def Info: graphics/profile.png  used on input line 310.
-(pdftex.def)             Requested size: 191.20518pt x 110.75974pt.
-File: graphics/profile_edit.png Graphic file (type png)
-<use graphics/profile_edit.png>
-Package pdftex.def Info: graphics/profile_edit.png  used on input line 310.
-(pdftex.def)             Requested size: 143.52324pt x 187.85284pt.
-
-Overfull \vbox (9.42776pt too high) detected at line 310
+]
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
 [22
 
-] [23
-
-] [24
-
-] [25
-
-] [26
-
-] [27
-
 ]
-<graphics/git_logo.png, id=2149, 326.21875pt x 326.21875pt>
-File: graphics/git_logo.png Graphic file (type png)
-<use graphics/git_logo.png>
-Package pdftex.def Info: graphics/git_logo.png  used on input line 374.
-(pdftex.def)             Requested size: 113.81102pt x 113.80992pt.
- [28
-
- <./graphics/git_logo.png>] [29
-
-] [30
-
-] [31
-
-]
-[32
-
-] [33
-
-]
-<graphics/profile_with_picture.png, id=2596, 345.54094pt x 572.89032pt>
-File: graphics/profile_with_picture.png Graphic file (type png)
-<use graphics/profile_with_picture.png>
-Package pdftex.def Info: graphics/profile_with_picture.png  used on input line 
-454.
-(pdftex.def)             Requested size: 107.55177pt x 178.31097pt.
-
-Overfull \hbox (343.3664pt too wide) detected at line 454
-[] [][][][] [][][][][][][][][] [][][][][][][] 
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
  []
 
-[34
-
- <./graphics/profile_with_picture.png>] [35
-
-] [36
-
-] [37
+[23
 
 ]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 505.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 505.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 505.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 505.
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
 
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <7> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 505.
-
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 505.
-
- [38
+[24
 
 ]
-<graphics/profile_with_css.png, id=2969, 1007.26312pt x 367.3725pt>
-File: graphics/profile_with_css.png Graphic file (type png)
-<use graphics/profile_with_css.png>
-Package pdftex.def Info: graphics/profile_with_css.png  used on input line 513.
+<graphics/kally.png, id=809, 1368.11125pt x 133.49875pt>
+File: graphics/kally.png Graphic file (type png)
+<use graphics/kally.png>
+Package pdftex.def Info: graphics/kally.png  used on input line 277.
+(pdftex.def)             Requested size: 398.3386pt x 38.86844pt.
+ [25
 
-(pdftex.def)             Requested size: 358.50229pt x 130.75168pt.
- [39
 
- <./graphics/profile_with_css.png>] [40
-
-] [41
-
-] [42
-
-]
-<graphics/git_branching_octopus.png, id=3267, 1390.9566pt x 802.6788pt>
-File: graphics/git_branching_octopus.png Graphic file (type png)
-<use graphics/git_branching_octopus.png>
-Package pdftex.def Info: graphics/git_branching_octopus.png  used on input line
- 553.
-(pdftex.def)             Requested size: 358.50229pt x 206.87888pt.
- [43
-
- <./graphics/git_branching_octopus.png>]
-<graphics/collaboration.png, id=3343, 1048.91875pt x 840.13875pt>
-File: graphics/collaboration.png Graphic file (type png)
-<use graphics/collaboration.png>
-Package pdftex.def Info: graphics/collaboration.png  used on input line 563.
-(pdftex.def)             Requested size: 239.00558pt x 191.43312pt.
- [44
-
- <./graphics/collaboration.png>]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 581.
-LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 581.
-
- [45
-
-] [46
-
-] [47
-
-] [48
-
-] [49
-
-] [50
-
-] [51
-
-]
+ <c:/Users/Felix/Documents/Felix/HIWI Psychologie/Git Workshop2/tex/graphics/kally.png>]
 \tf@nav=\write6
 \openout6 = `git.nav'.
 
@@ -1325,37 +990,30 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
 \tf@snm=\write8
 \openout8 = `git.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 645.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 645.
-
-(git.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 645.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 645.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
+ ("c:/Users\Felix\Documents\Felix\HIWI Psychologie\Git Workshop2\tex\git.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
 Package rerunfilecheck Info: File `git.out' has not changed.
-(rerunfilecheck)             Checksum: 8F1FF2DC8A537B23C4FB864557B53C41;241.
+(rerunfilecheck)             Checksum: A2EAAA2A074C3E8CBE0D1260C940DC5C;89.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 20852 strings out of 492969
- 416331 string characters out of 3126585
- 539379 words of memory out of 3000000
- 24128 multiletter control sequences out of 15000+200000
- 59120 words of font info for 64 fonts, out of 3000000 for 9000
+ 20143 strings out of 492969
+ 404298 string characters out of 3126585
+ 479559 words of memory out of 3000000
+ 23482 multiletter control sequences out of 15000+200000
+ 35677 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,82p,772b,1312s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.en
-c}{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-maths
-y.enc}{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-r
-mtt.enc}<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm
-/lmss10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/lm/lmss12.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmss8.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/lm/lmss9.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/public/lm/lmsy10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/lm/lmsy9.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/lm/lmtt10.pfb>
-Output written on git.pdf (51 pages, 1345680 bytes).
+ 56i,20n,59p,838b,755s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rmtt.enc}{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
+Output written on "c:/Users\Felix\Documents\Felix\HIWI Psychologie\Git Workshop2\tex\git.pdf" (25 pages, 509311 bytes).
 PDF statistics:
- 3992 PDF objects out of 4296 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 892 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
